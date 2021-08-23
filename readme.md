@@ -1,0 +1,1 @@
+This is the Codecademy Fashion Blog project. See [here](https://www.codecademy.com/courses/learn-html/projects/html-fashion-blog) for a link to the project site. I wanted to try doing it off-platform for learning purposes. 
